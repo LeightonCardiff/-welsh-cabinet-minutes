@@ -1,0 +1,11 @@
+
+body {
+  font-family: sans-serif;
+  margin: 2em;
+}
+h1 {
+  font-size: 1.5em;
+}
+#filters {
+  margin-bottom: 1em;
+}
